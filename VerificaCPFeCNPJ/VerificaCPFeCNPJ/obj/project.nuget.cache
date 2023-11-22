@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvL0wKPC/43Nn39zF7yar4dg7jP0X479gdfKtPkt/AYyv1NH8Hp/O8iLPbcyLTqRH3OdlxqhcZXB/BYfnz5Z1A==",
+  "success": true,
+  "projectFilePath": "/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/VerificaCPFeCNPJ.csproj",
+  "expectedPackageFiles": [
+    "/Users/mauriciojunior/.nuget/packages/cpfcnpj-net-6/2.0.7/cpfcnpj-net-6.2.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

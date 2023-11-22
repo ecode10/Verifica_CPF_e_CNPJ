@@ -1,0 +1,17 @@
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/VerificaCPFeCNPJ
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/VerificaCPFeCNPJ.deps.json
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/VerificaCPFeCNPJ.runtimeconfig.json
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/VerificaCPFeCNPJ.dll
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/VerificaCPFeCNPJ.pdb
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/bin/Debug/net7.0/CPFCNPJ-NET-6.dll
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.csproj.AssemblyReference.cache
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.AssemblyInfoInputs.cache
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.AssemblyInfo.cs
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.csproj.CoreCompileInputs.cache
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.csproj.CopyComplete
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.dll
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/refint/VerificaCPFeCNPJ.dll
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.pdb
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/VerificaCPFeCNPJ.genruntimeconfig.cache
+/Users/mauriciojunior/Projects/VerificaCPFeCNPJ/VerificaCPFeCNPJ/obj/Debug/net7.0/ref/VerificaCPFeCNPJ.dll

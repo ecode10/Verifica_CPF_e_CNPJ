@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VerificaCPFeCNPJ/1.0.0": {
+        "dependencies": {
+          "CPFCNPJ-NET-6": "2.0.7"
+        },
+        "runtime": {
+          "VerificaCPFeCNPJ.dll": {}
+        }
+      },
+      "CPFCNPJ-NET-6/2.0.7": {
+        "runtime": {
+          "lib/net6.0/CPFCNPJ-NET-6.dll": {
+            "assemblyVersion": "2.0.7.0",
+            "fileVersion": "2.0.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VerificaCPFeCNPJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CPFCNPJ-NET-6/2.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EqdaBMff/tpto3OaUF4x6nDrP1a4dZmKetrM4d21KlduF24+iDI+YFDOrjxrw7bPcgBPLKza6B+A9y0QX6SIzQ==",
+      "path": "cpfcnpj-net-6/2.0.7",
+      "hashPath": "cpfcnpj-net-6.2.0.7.nupkg.sha512"
+    }
+  }
+}
